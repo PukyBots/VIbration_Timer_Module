@@ -72,37 +72,9 @@ The timer is configured to activate the vibration motor **every 20 minutes**, se
 
 # Connection Diagram
 
-```text
-               +----------------------+
-               |      9V Battery      |
-               +----------+-----------+
-                          |
-                          |
-                +---------v----------+
-                |    Timer Module    |
-                +---------+----------+
-                          |
-                Trigger Output
-                          |
-                          |
-                +---------v----------+
-                |    Relay Module    |
-                +---------+----------+
-                          |
-          +---------------+--------------+
-          |                              |
-          |                              |
-      COM |                          NO  |
-          |                              |
-          |                              |
-          +------------------------------+
-                          |
-                          |
-                    Vibration Motor
-                          |
-                          |
-                        Battery (-)
-```
+<div align="center">
+  <img src="images/3.png" width="300">
+</div>
 
 ---
 
