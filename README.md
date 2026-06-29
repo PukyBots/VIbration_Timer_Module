@@ -9,7 +9,7 @@ The timer is configured to activate the vibration motor **every 20 minutes**, se
 ## Project Overview
 
 <div align="center">
-  <img src="images/2.jpg" width="500">
+  <img src="images/2.jpg" width="300">
 </div>
 
 ---
@@ -115,7 +115,7 @@ The timer is configured to activate the vibration motor **every 20 minutes**, se
 - Compact electronics integration
 
 <div align="center">
-  <img src="images/1.jpg" width="450">
+  <img src="images/1.jpeg" width="300">
 </div>
 
 ---
@@ -147,22 +147,6 @@ The timer is configured to activate the vibration motor **every 20 minutes**, se
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── images/
-│   ├── device.jpg
-│   ├── wearable_design.jpg
-│   └── connection_diagram.png
-├── README.md
-├── enclosure/
-│   └── 3d_model.stl
-└── circuit/
-    └── wiring.pdf
-```
-
----
 
 ## License
 
