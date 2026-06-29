@@ -73,7 +73,7 @@ The timer is configured to activate the vibration motor **every 20 minutes**, se
 # Connection Diagram
 
 <div align="center">
-  <img src="images/3.png" width="300">
+  <img src="images/3.png" width="600">
 </div>
 
 ---
